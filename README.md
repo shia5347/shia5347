@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shia5347 also known as Shahroz
 - 👀 I’m interested in game development and art
-- 🌱 I’m currently developing a game which I can hopefully market successfully
+- 🌱 I’m currently developing a game which I hope to market successfully
 - 📫 How to reach me: mugeneve@gmail.com
 
 <!---
